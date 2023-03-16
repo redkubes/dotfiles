@@ -6,7 +6,7 @@ ZSH_THEME="robbyrussell"
 
 plugins=(brew bundler colorize
   dirhistory docker git git-extras git-flow github
-  kubectl last-working-dir npm nvm osx python
+  kubectl last-working-dir npm nvm macos python
   tmux vagrant xcode)
 
 source "$ZSH"/oh-my-zsh.sh
