@@ -1,9 +1,9 @@
 [user]
-name = {{gitUser}}
-email = {{gitEmail}}
-signingkey = {{gpgSigningkey}}
+	name = Jehoszafat Zimnowoda
+	email = jzimnowo@akamai.com
+	signingkey = 2C6553B8043C59FF
 [github]
-user = {{githubUser}}
+	user = j-zimnowoda
 
 [core]
 editor = vim
