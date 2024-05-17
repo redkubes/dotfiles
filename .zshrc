@@ -32,6 +32,10 @@ export PATH="/usr/local/opt/openjdk/bin:$PATH"
 export PATH="/usr/local/opt/gnu-getopt/bin:$PATH"
 export PATH="/usr/local/opt/libpq/bin:$PATH"
 
+# Local GO paths
+export PATH="$HOME/go/bin:$PATH"
+
+
 # Brew paths
 export PATH="/usr/local/bin:/usr/local/sbin:$PATH"
 
